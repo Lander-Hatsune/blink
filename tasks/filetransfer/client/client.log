@@ -1,0 +1,91 @@
+sent 1200 bytes
+done writing
+failed to process packet
+recv would block
+done reading
+sent 1200 bytes
+done writing
+failed to process packet
+recv would block
+done reading
+sent 1200 bytes
+done writing
+recv 199 bytes
+recv 1196 bytes
+recv 257 bytes
+recv would block
+done reading
+connection established: hq-28
+sent 1280 bytes
+sent 111 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1020 bytes
+done writing
+recv 71 bytes
+recv 448 bytes
+recv would block
+done reading
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 690 bytes
+done writing
+recv 47 bytes
+recv would block
+done reading
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1350 bytes
+sent 1338 bytes
+done writing
+recv 75 bytes
+recv would block
+done reading
+stream 4 is readable
+sent 38 bytes
+done writing
+timeout
+done writing
+connection closed, recv=7 sent=58 lost=0 rtt=5475681ns
